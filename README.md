@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Mohit-0607
-- 👀 I’m interested in Machine learning and cyber security
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me email - m7880899@gmail.com
+# Hospital_Management_System_Python
+This hospital management project is made using the tkinter and sqlite in python 
 
-<!---
-Mohit-0607/Mohit-0607 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+username for login page are 'Mohit' and password for this username is '98765432'
+Another username is 'Mayur' and password is 'Godkonws'
+
+open this project and explore it.
+
+This project is made in mind keeping that it can be handled by a single person handling all the database of the patient.
